@@ -26,7 +26,7 @@ const contactInfo = [
 ]
 
 const socialLinks = [
-  { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com", color: "hover:bg-blue-600" },
+  { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com/in/muhamad-abid-maulana-4a528234a", color: "hover:bg-blue-600" },
   { icon: Instagram, label: "Instagram", href: "https://instagram.com/abidmauna", color: "hover:bg-pink-600" },
 ]
 

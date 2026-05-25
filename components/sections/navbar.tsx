@@ -16,7 +16,7 @@ const navLinks = [
 ]
 
 const socialLinks = [
-  { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
+  { icon: Linkedin, href: "https://linkedin.com/in/muhamad-abid-maulana-4a528234a", label: "LinkedIn" },
   { icon: Instagram, href: "https://instagram.com/abidmauna", label: "Instagram" },
 ]
 

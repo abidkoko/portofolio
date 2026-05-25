@@ -4,7 +4,7 @@ import { motion } from "framer-motion"
 import { Github, Linkedin, Instagram, Twitter, Mail, ArrowUp, Heart } from "lucide-react"
 
 const socialLinks = [
-  { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com" },
+  { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com/in/muhamad-abid-maulana-4a528234a" },
   { icon: Instagram, label: "Instagram", href: "https://instagram.com/abidmauna" },
 ]
 
