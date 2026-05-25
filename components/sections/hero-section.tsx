@@ -199,7 +199,7 @@ export function HeroSection() {
               {/* Animated rings */}
               <motion.div
                 className="absolute inset-0 -m-8"
-                animate={{ rotate: 360 }}
+                animate={{ rotate: 0 }}
                 transition={{ duration: 20, repeat: Infinity, ease: "linear" }}
               >
                 <div className="w-full h-full rounded-full border border-cyan-500/20" />
