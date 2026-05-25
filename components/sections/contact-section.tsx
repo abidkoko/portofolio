@@ -26,10 +26,8 @@ const contactInfo = [
 ]
 
 const socialLinks = [
-  { icon: Github, label: "GitHub", href: "https://github.com", color: "hover:bg-gray-700" },
   { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com", color: "hover:bg-blue-600" },
-  { icon: Instagram, label: "Instagram", href: "https://instagram.com", color: "hover:bg-pink-600" },
-  { icon: Twitter, label: "Twitter", href: "https://twitter.com", color: "hover:bg-sky-500" },
+  { icon: Instagram, label: "Instagram", href: "https://instagram.com/abidmauna", color: "hover:bg-pink-600" },
 ]
 
 export function ContactSection() {

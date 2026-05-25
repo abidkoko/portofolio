@@ -4,11 +4,8 @@ import { motion } from "framer-motion"
 import { Github, Linkedin, Instagram, Twitter, Mail, ArrowUp, Heart } from "lucide-react"
 
 const socialLinks = [
-  { icon: Github, label: "GitHub", href: "https://github.com" },
   { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com" },
-  { icon: Instagram, label: "Instagram", href: "https://instagram.com" },
-  { icon: Twitter, label: "Twitter", href: "https://twitter.com" },
-  { icon: Mail, label: "Email", href: "mailto:btlabd52@email.com" },
+  { icon: Instagram, label: "Instagram", href: "https://instagram.com/abidmauna" },
 ]
 
 const quickLinks = [
